@@ -23,45 +23,42 @@ Welcome to my portfolio on GitHub! I develop web apps and I specialize in progra
 
 ## Portfolio Pages
 - [Home](https://www.shanebrumback.com/index.html)
-- [About Me](https://www.shanebrumback.com/search.html)
+- [Search My Site](https://www.shanebrumback.com/search.html)
 - [Contact Me](https://www.shanebrumback.com/contact-me.html)
-- [Projects](https://www.shanebrumback.com/articles.html)
-- [Projects](https://www.shanebrumback.com/3d-games.html)
+- [Articles](https://www.shanebrumback.com/articles.html)
+- [Tutorials](https://www.shanebrumback.com/3d-games.html)
 - [Videos](https://www.shanebrumback.com/videos.html)
 
-## Blog Articles
+## Articles
 
-- [Animate 3D Objects Shaders](https://www.shanebrumback.com/tutorials/animate-3d-objects-shaders.html) - 06-16-2023
-- [Threejs Examples Exploring Interactive Visual Particle Systems](https://www.shanebrumback.com/blog/threejs-examples-exploring-interactive-visual-particle-systems.html) - 06-16-2023
-- [Enhancing Your Website With Threejs Star Field Particle Systems](https://www.shanebrumback.com/blog/enhancing-your-website-with-threejs-star-field-particle-systems.html) - 06-16-2023
-- [How To Load YouTube Videos On A Web Page With Youtube Api](https://www.shanebrumback.com/blog/how-to-load-youtube-videos-on-a-web-page-with-youtube-api.html) - 06-16-2023
-- [How To Program A Simple Particle System](https://www.shanebrumback.com/blog/how-to-program-a-simple-particle-system.html) - 06-16-2023
-- [Programming 3D Games With Threejs](https://www.shanebrumback.com/blog/Programming-3d-games-with-Threejs.html) - 07-15-2023
-- [First Person Shooter Game Tommy Gun Starter Code](https://www.shanebrumback.com/blog/first-person-shooter-game-tommy-gun-starter-code.html) - 07-15-2023
-- [Creating 3D Virtual Educational Worlds](https://www.shanebrumback.com/blog/creating-3d-virtual-educational-worlds.html) - 07-15-2023
-- [How To Program a Fire Fountain Particle System](https://www.shanebrumback.com/blog/how-to-program-a-fire-fountain-particle-system.html) - 07-15-2023
-- [How To Program a 3D Menu](https://www.shanebrumback.com/blog/how-to-program-a-3d-menu.html) - 07-15-2023
+- [Animate 3D Objects Shaders](https://www.shanebrumback.com/tutorials/animate-3d-objects-shaders.html)
+- [Threejs Examples Exploring Interactive Visual Particle Systems](https://www.shanebrumback.com/tutorials/threejs-examples-exploring-interactive-visual-particle-systems.html)
+- [blogEnhancing Your Website With Threejs Star Field Particle Systems](https://www.shanebrumback.com/tutorials/enhancing-your-website-with-threejs-star-field-particle-systems.html)
+- [How To Load YouTube Videos On A Web Page With Youtube Api](https://www.shanebrumback.com/tutorials/how-to-load-youtube-videos-on-a-web-page-with-youtube-api.html)
+- [How To Program A Simple Particle System](https://www.shanebrumback.com/tutorials/how-to-program-a-simple-particle-system.html)
+- [First Person Shooter Game Tommy Gun Starter Code](https://www.shanebrumback.com/tutorials/first-person-shooter-game-tommy-gun-starter-code.html) 
+- [Creating 3D Virtual Educational Worlds](https://www.shanebrumback.com/articles/creating-3d-virtual-educational-worlds.html)
+- [How To Program a Fire Fountain Particle System](https://www.shanebrumback.com/tutorials/how-to-program-a-fire-fountain-particle-system.html)
+- [How To Program a 3D Menu](https://www.shanebrumback.com/tutorials/how-to-program-a-3d-menu.html) 
 
 
 ## Three.js Examples and Other Links
 
-- [Threejs 3D Comet Game Programming](https://www.shanebrumback.com/threejs-3d-comet-game-programming.html) - 06-16-2023
-- [3D Interactive Star Field Particle System](https://www.shanebrumback.com/tutorials/tutorials/3d-interactive-star-field-particle-system.html) - 06-16-2023
-- [Animated Multi Color Cloud Particle System](https://www.shanebrumback.com/tutorials/animated-multi-color-cloud-particle-system.html) - 06-16-2023
-- [Animated White Cloud Particle System](https://www.shanebrumback.com/tutorials/animated-white-cloud-particle-system.html) - 06-16-2023
-- [Comet Particle System](https://www.shanebrumback.com/tutorials/comet-particle-system.html) - 06-16-2023
-- [Interactive Smiley Particle System](https://www.shanebrumback.com/tutorials/interactive-smiley-particle-system.html) - 06-16-2023
-- [Rocket Engine Particle System](https://www.shanebrumback.com/tutorials/rocket-engine-particle-system.html) - 06-16-2023
-- [Transparent Png Images 3D Cube](https://www.shanebrumback.com/tutorials/adding-transparent-png-textures-to-3d-objects.html) - 06-16-2023
-- [Water Shader Effects](https://www.shanebrumback.com/tutorials/water-shader-effects.html) - 06-16-2023
-- [Threejs Examples Animated Orb Rotation](https://www.shanebrumback.com/tutorials/threejs-examples-animated-orb-rotation.html) - 06-16-2023
-- [Threejs Particle System Rocket Engine](https://www.shanebrumback.com/tutorials/threejs-particle-system-rocket-engine.html) - 06-16-2023
-- [Simple Particle System](https://www.shanebrumback.com/tutorials/simple-particle-system.html) - 06-16-2023
-- [Threejs Zombie Attack 3D Shooter Game](https://www.shanebrumback.com/threejs-zombie-attack.html) - 06-15-2023
+- [Threejs 3D Comet Game Programming](https://www.shanebrumback.com/threejs-3d-comet-game-programming.html)
+- [3D Interactive Star Field Particle System](https://www.shanebrumback.com/tutorials/enhancing-your-website-with-threejs-star-field-particle-systems.html)
+- [Animated Multi Color Cloud Particle System](https://www.shanebrumback.com/tutorials/animated-multi-color-cloud-particle-system.html) 
+- [Animated White Cloud Particle System](https://www.shanebrumback.com/tutorials/animated-white-cloud-particle-system.html)
+- [Comet Particle System](https://www.shanebrumback.com/tutorials/comet-particle-system.html) 
+- [Interactive Smiley Particle System](https://www.shanebrumback.com/tutorials/interactive-smiley-particle-system.html)
+- [Rocket Engine Particle System](https://www.shanebrumback.com/tutorials/rocket-engine-particle-system.html) 
+- [Transparent Png Images 3D Cube](https://www.shanebrumback.com/tutorials/adding-transparent-png-textures-to-3d-objects.html)
+- [Water Shader Effects](https://www.shanebrumback.com/tutorials/water-shader-effects.html) 
+- [Threejs Particle System Rocket Engine](https://www.shanebrumback.com/tutorials/rocket-engine-particle-system.html)
+- [Simple Particle System](https://www.shanebrumback.com/tutorials/simple-particle-system.html)
+- [Threejs Zombie Attack 3D Shooter Game](https://www.shanebrumback.com/threejs-zombie-attack.html)
   
 
 ## 3D Game Links 
-- [Three.js Games Super Soldier Battle](https://www.supersoldierbattle.com)
 - [Three.js Dogecoin Space WOW Game](https://www.spacewowgame.com)
 - [Three.js Zombie Attack 3D Shooter Game](https://www.shanebrumback.com/threejs-zombie-attack.html)
 - [Three.js SpaceX Falcon 9 Launch Complex](https://www.shanebrumback.com/spacex-falcon-9-launch-complex.html)
@@ -76,7 +73,7 @@ Welcome to my portfolio on GitHub! I develop web apps and I specialize in progra
   ![Three.js Examples - Particle System Blast Effects](https://www.shanebrumback.com/images/threejs-examples-particle-system-3d-blast-effect.jpg)
   How to Program Particle System Blast Effects for Three.js 3D Games using JavaScript, HTML, CSS, Three.js & AWS Web Services
 
-- [First Person Shooter Game Tommy Gun Starter Code](https://www.shanebrumback.com/blog/first-person-shooter-game-tommy-gun-starter-code.html)
+- [First Person Shooter Game Tommy Gun Starter Code](https://www.shanebrumback.com/tutorials/first-person-shooter-game-tommy-gun-starter-code.html)
   ![Three.js Examples - First Person Shooter Game Tommy Gun Starter Code](https://www.shanebrumback.com/images/threejs-examples-first-person-shooter-game-tommy-gun-starter-code.jpg)
   First Person Shooter Game Tommy Gun Starter Code using Three.js, JavaScript, HTML, CSS, AWS Web Services
 
@@ -84,7 +81,7 @@ Welcome to my portfolio on GitHub! I develop web apps and I specialize in progra
   ![Three.js Examples - First Person Shooter Game Starter Example](https://www.shanebrumback.com/images/threejs-examples-first-person-shooter-game-starter.jpg)
   First Person Shooter Game Starter using Three.js, JavaScript, HTML, CSS, AWS Web Services
 
-- [Programming Interactive 3D Menu](https://www.shanebrumback.com/blog/how-to-program-a-3d-menu.html)
+- [Programming Interactive 3D Menu](https://www.shanebrumback.com/tutorials/how-to-program-a-3d-menu.html)
   ![Three.js Examples - Programming Interactive 3D Menus](https://www.shanebrumback.com/images/threejs-examples-programming-interactive-3d-menus.png)
   Programming Interactive 3D Menu using Three.js, JavaScript, HTML, CSS, AWS Web Services
 
@@ -96,7 +93,7 @@ Welcome to my portfolio on GitHub! I develop web apps and I specialize in progra
   ![Three.js game multi-player spacex falcon 9 3d world](https://www.shanebrumback.com/images/spacex-3d-falcon-9-launch-pad.jpg)
   Multi-Player Threejs 3D World Educational Interactive SpaceX Falcon 9 Launch Pad Using JavaScript, HTML, CSS, AWS Web Services & API Integrations
 
-- [Threejs Example Fire Fountain Particle System](https://www.shanebrumback.com/blog/how-to-program-a-fire-fountain-particle-system.html)
+- [Threejs Example Fire Fountain Particle System](https://www.shanebrumback.com/tutorials/how-to-program-a-fire-fountain-particle-system.html)
   ![Three.js Example - Fire Fountain Particle System](https://www.shanebrumback.com/images/fire-fountain-particle-system.jpg)
   Threejs Example Fire Fountain Particle System using JavaScript, HTML, CSS & AWS Web Services
 
@@ -112,7 +109,6 @@ Welcome to my portfolio on GitHub! I develop web apps and I specialize in progra
   ![Threejs rocket engine particle system](https://www.shanebrumback.com/images/threejs-particle-system-rocket-engine.jpg)
   Threejs 3D Particle System Example using JavaScript, HTML, CSS & AWS Web Services
 
-- [Multi-Player Threejs 3D Robot Battle Action Game](https://www.supersoldierbattle.com)
   ![Threejs super soldier robot battle 3d game](https://www.shanebrumback.com/images/super-soldier-battl-game-demo.jpg)
   Multi-Player Threejs 3D Robot Battle Action Game using JavaScript, HTML, CSS, Node.js, AWS Web Services & API Integration
 
@@ -170,11 +166,7 @@ Welcome to my portfolio on GitHub! I develop web apps and I specialize in progra
 Shane Brumback - Web Developer
 
 Feel free to reach out to me through the following channels:
-- Email: [shane.brumback@gmail.com](mailto:shane.brumback@gmail.com)
-- Phone: [312-668-7221](tel:312-668-7221)
 - Website: [www.shanebrumback.com](https://www.shanebrumback.com)
 - Blog Spot: [www.shanebrumback.blogspot.com](https://shanebrumback.blogspot.com/)
-- [LinkedIn Profile ](https://www.linkedin.com/in/shane-brumback-b9a8a085/)
 - [YouTube ](https://www.youtube.com/channel/UC5kqNYlnPWrL46eTKjTEPHg)
 - [Twitter ](https://twitter.com/ShaneBrumback)
-- [Facebook ](https://www.facebook.com/shane.brumback)
