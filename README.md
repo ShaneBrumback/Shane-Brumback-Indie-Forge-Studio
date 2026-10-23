@@ -1,5 +1,5 @@
 # Shane-Brumback-Indie-Forge-Studio
-Summy of my Three.js 3D Game Work
+Summary of my Three.js 3D Game Work
 
 # Shane Brumback's Portfolio & Services - Interactive 3D Web Apps - Three.js Particle Examples - CMS Systems - 3D Games - 3D Interactive Landing Pages - Video Content www.ShaneBrumback.com
 
@@ -26,7 +26,8 @@ Welcome to my portfolio on GitHub! I develop web apps and I specialize in progra
 - [Search My Site](https://www.shanebrumback.com/search.html)
 - [Contact Me](https://www.shanebrumback.com/contact-me.html)
 - [Articles](https://www.shanebrumback.com/articles.html)
-- [Tutorials](https://www.shanebrumback.com/3d-games.html)
+- [Tutorials](https://www.shanebrumback.com/tutorials.html)
+- [3D Games](https://www.shanebrumback.com/3d-games.html)
 - [Videos](https://www.shanebrumback.com/videos.html)
 
 ## Articles
