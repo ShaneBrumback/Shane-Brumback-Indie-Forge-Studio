@@ -31,29 +31,25 @@ Summary of my Three.js 3D game work.
 - 🌐 **[shanebrumback.com](https://www.shanebrumback.com/)**: [3D Games](https://www.shanebrumback.com/3d-games.html) · [Tutorials](https://www.shanebrumback.com/tutorials.html) · [Articles](https://www.shanebrumback.com/articles.html) · [Videos](https://www.shanebrumback.com/videos.html) · [RSS feed](https://www.shanebrumback.com/feed.xml)
 
 ## Games
-Free Three.js games you can play in the browser (3 on shanebrumback.com, plus [Super Soldier Battle](https://supersoldierbattle.com)).
+Free Three.js browser games (15). All games are on [Indie Forge Studio](https://indieforgestudio.com/). The last four don't have their own Indie Forge Studio page yet, so they link to where they're played.
 
-| # | Title |
-|---|---|
-| 1 | [SpaceX Falcon 9 Launch Complex 3D World - Free Three.js Game](https://www.shanebrumback.com/spacex-falcon-9-launch-complex.html) |
-| 2 | [Zombie Attack - Free Minecraft Style Browser FPS Game](https://www.shanebrumback.com/threejs-zombie-attack.html) |
-| 3 | [Planet Quest: Solar System Explorer - Free 3D Space Education Game](https://www.shanebrumback.com/planet-quest-solar-system-explorer.html) |
-
-### Portrait Mobile Games on Indie Forge Studio
-Vertical, phone-friendly Three.js games (10), playable at [indieforgestudio.com](https://indieforgestudio.com/).
-
-| # | Title |
-|---|---|
-| 1 | [Brick Blaster](https://indieforgestudio.com/games/brick-blaster/) |
-| 2 | [Color Gate Rush](https://indieforgestudio.com/games/color-gate-rush/) |
-| 3 | [Fruit Slash](https://indieforgestudio.com/games/fruit-slash/) |
-| 4 | [Helix Drop](https://indieforgestudio.com/games/helix-drop/) |
-| 5 | [Knife Spin](https://indieforgestudio.com/games/knife-spin/) |
-| 6 | [Lane Runner Drop](https://indieforgestudio.com/games/lane-runner-drop/) |
-| 7 | [Orbit Dodge](https://indieforgestudio.com/games/orbit-dodge/) |
-| 8 | [Sky Hopper](https://indieforgestudio.com/games/sky-hopper/) |
-| 9 | [Snake Glide 3D](https://indieforgestudio.com/games/snake-glide/) |
-| 10 | [Stack Tower 3D](https://indieforgestudio.com/games/stack-tower/) |
+| # | Game | Play on |
+|---|---|---|
+| 1 | [AI Tic-Tac-Toe](https://indieforgestudio.com/games/tic-tac-toe/) | Indie Forge Studio |
+| 2 | [Brick Blaster](https://indieforgestudio.com/games/brick-blaster/) | Indie Forge Studio |
+| 3 | [Color Gate Rush](https://indieforgestudio.com/games/color-gate-rush/) | Indie Forge Studio |
+| 4 | [Fruit Slash](https://indieforgestudio.com/games/fruit-slash/) | Indie Forge Studio |
+| 5 | [Helix Drop](https://indieforgestudio.com/games/helix-drop/) | Indie Forge Studio |
+| 6 | [Knife Spin](https://indieforgestudio.com/games/knife-spin/) | Indie Forge Studio |
+| 7 | [Lane Runner Drop](https://indieforgestudio.com/games/lane-runner-drop/) | Indie Forge Studio |
+| 8 | [Orbit Dodge](https://indieforgestudio.com/games/orbit-dodge/) | Indie Forge Studio |
+| 9 | [Sky Hopper](https://indieforgestudio.com/games/sky-hopper/) | Indie Forge Studio |
+| 10 | [Snake Glide 3D](https://indieforgestudio.com/games/snake-glide/) | Indie Forge Studio |
+| 11 | [Stack Tower 3D](https://indieforgestudio.com/games/stack-tower/) | Indie Forge Studio |
+| 12 | [Super Soldier Battle](https://supersoldierbattle.com) | supersoldierbattle.com |
+| 13 | [SpaceX Falcon 9 Launch Complex](https://www.shanebrumback.com/spacex-falcon-9-launch-complex.html) | shanebrumback.com |
+| 14 | [Zombie Attack](https://www.shanebrumback.com/threejs-zombie-attack.html) | shanebrumback.com |
+| 15 | [Planet Quest: Solar System Explorer](https://www.shanebrumback.com/planet-quest-solar-system-explorer.html) | shanebrumback.com |
 
 ## Tutorials
 Free Three.js tutorials with live demos (73).
