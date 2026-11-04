@@ -19,7 +19,8 @@ Summary of my Three.js 3D game work.
 
 ## Contents
 - [Featured](#featured)
-- [Games](#games)
+- [Three.js Games](#threejs-games)
+- [Portrait Arcade Games on Indie Forge Studio](#portrait-arcade-games-on-indie-forge-studio)
 - [Tutorials](#tutorials)
 - [Articles](#articles)
 - [Links](#links)
@@ -30,26 +31,32 @@ Summary of my Three.js 3D game work.
 - 🔥 **[Indie Forge Studio](https://indieforgestudio.com/)**: my studio for Three.js games, tutorials and interactive experiences
 - 🌐 **[shanebrumback.com](https://www.shanebrumback.com/)**: [3D Games](https://www.shanebrumback.com/3d-games.html) · [Tutorials](https://www.shanebrumback.com/tutorials.html) · [Articles](https://www.shanebrumback.com/articles.html) · [Videos](https://www.shanebrumback.com/videos.html) · [RSS feed](https://www.shanebrumback.com/feed.xml)
 
-## Games
-Free Three.js browser games (15). All games are on [Indie Forge Studio](https://indieforgestudio.com/). The last four don't have their own Indie Forge Studio page yet, so they link to where they're played.
+## Three.js Games
+Free Three.js 3D browser games (5).
 
-| # | Game | Play on |
-|---|---|---|
-| 1 | [AI Tic-Tac-Toe](https://indieforgestudio.com/games/tic-tac-toe/) | Indie Forge Studio |
-| 2 | [Brick Blaster](https://indieforgestudio.com/games/brick-blaster/) | Indie Forge Studio |
-| 3 | [Color Gate Rush](https://indieforgestudio.com/games/color-gate-rush/) | Indie Forge Studio |
-| 4 | [Fruit Slash](https://indieforgestudio.com/games/fruit-slash/) | Indie Forge Studio |
-| 5 | [Helix Drop](https://indieforgestudio.com/games/helix-drop/) | Indie Forge Studio |
-| 6 | [Knife Spin](https://indieforgestudio.com/games/knife-spin/) | Indie Forge Studio |
-| 7 | [Lane Runner Drop](https://indieforgestudio.com/games/lane-runner-drop/) | Indie Forge Studio |
-| 8 | [Orbit Dodge](https://indieforgestudio.com/games/orbit-dodge/) | Indie Forge Studio |
-| 9 | [Sky Hopper](https://indieforgestudio.com/games/sky-hopper/) | Indie Forge Studio |
-| 10 | [Snake Glide 3D](https://indieforgestudio.com/games/snake-glide/) | Indie Forge Studio |
-| 11 | [Stack Tower 3D](https://indieforgestudio.com/games/stack-tower/) | Indie Forge Studio |
-| 12 | [Super Soldier Battle](https://supersoldierbattle.com) | supersoldierbattle.com |
-| 13 | [SpaceX Falcon 9 Launch Complex](https://www.shanebrumback.com/spacex-falcon-9-launch-complex.html) | shanebrumback.com |
-| 14 | [Zombie Attack](https://www.shanebrumback.com/threejs-zombie-attack.html) | shanebrumback.com |
-| 15 | [Planet Quest: Solar System Explorer](https://www.shanebrumback.com/planet-quest-solar-system-explorer.html) | shanebrumback.com |
+| # | Game |
+|---|---|
+| 1 | [Super Soldier Battle](https://supersoldierbattle.com) |
+| 2 | [SpaceX Falcon 9 Launch Complex](https://www.shanebrumback.com/spacex-falcon-9-launch-complex.html) |
+| 3 | [Zombie Attack](https://www.shanebrumback.com/threejs-zombie-attack.html) |
+| 4 | [Planet Quest: Solar System Explorer](https://www.shanebrumback.com/planet-quest-solar-system-explorer.html) |
+| 5 | [AI Tic-Tac-Toe](https://www.shanebrumback.com/ai-tic-tac-toe.html) |
+
+## Portrait Arcade Games on Indie Forge Studio
+Vertical, arcade-style games (10) on [Indie Forge Studio](https://indieforgestudio.com/).
+
+| # | Game |
+|---|---|
+| 1 | [Lane Runner Drop](https://indieforgestudio.com/games/lane-runner-drop/) |
+| 2 | [Color Gate Rush](https://indieforgestudio.com/games/color-gate-rush/) |
+| 3 | [Stack Tower 3D](https://indieforgestudio.com/games/stack-tower/) |
+| 4 | [Orbit Dodge](https://indieforgestudio.com/games/orbit-dodge/) |
+| 5 | [Sky Hopper](https://indieforgestudio.com/games/sky-hopper/) |
+| 6 | [Knife Spin](https://indieforgestudio.com/games/knife-spin/) |
+| 7 | [Brick Blaster](https://indieforgestudio.com/games/brick-blaster/) |
+| 8 | [Helix Drop](https://indieforgestudio.com/games/helix-drop/) |
+| 9 | [Snake Glide 3D](https://indieforgestudio.com/games/snake-glide/) |
+| 10 | [Fruit Slash](https://indieforgestudio.com/games/fruit-slash/) |
 
 ## Tutorials
 Free Three.js tutorials with live demos (73).
