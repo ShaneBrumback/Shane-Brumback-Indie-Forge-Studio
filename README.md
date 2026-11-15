@@ -43,28 +43,38 @@ Free Three.js 3D browser games (5).
 | 5 | [AI Tic-Tac-Toe](https://www.shanebrumback.com/ai-tic-tac-toe.html) |
 
 ## Portrait Arcade Games on Indie Forge Studio
-Vertical, arcade-style games (18) on [Indie Forge Studio](https://indieforgestudio.com/).
+Vertical, arcade-style games (28) on [Indie Forge Studio](https://indieforgestudio.com/).
 
 | # | Game |
 |---|---|
-| 1 | [Neon Turret Rush](https://indieforgestudio.com/games/neon-turret-rush/) |
-| 2 | [Drift Dash](https://indieforgestudio.com/games/drift-dash/) |
-| 3 | [Lane Gunner](https://indieforgestudio.com/games/lane-gunner/) |
-| 4 | [Wall Flip](https://indieforgestudio.com/games/wall-flip/) |
-| 5 | [Rocket Lander](https://indieforgestudio.com/games/rocket-lander/) |
-| 6 | [Balloon Guard](https://indieforgestudio.com/games/balloon-guard/) |
-| 7 | [Tap Jump Road](https://indieforgestudio.com/games/tap-jump-road/) |
-| 8 | [Tic-Tac-Toe](https://indieforgestudio.com/games/tic-tac-toe/) |
-| 9 | [Lane Runner Drop](https://indieforgestudio.com/games/lane-runner-drop/) |
-| 10 | [Color Gate Rush](https://indieforgestudio.com/games/color-gate-rush/) |
-| 11 | [Stack Tower 3D](https://indieforgestudio.com/games/stack-tower/) |
-| 12 | [Orbit Dodge](https://indieforgestudio.com/games/orbit-dodge/) |
-| 13 | [Sky Hopper](https://indieforgestudio.com/games/sky-hopper/) |
-| 14 | [Knife Spin](https://indieforgestudio.com/games/knife-spin/) |
-| 15 | [Brick Blaster](https://indieforgestudio.com/games/brick-blaster/) |
-| 16 | [Helix Drop](https://indieforgestudio.com/games/helix-drop/) |
-| 17 | [Snake Glide 3D](https://indieforgestudio.com/games/snake-glide/) |
-| 18 | [Fruit Slash](https://indieforgestudio.com/games/fruit-slash/) |
+| 1 | [Skeletal System 3D Anatomy Quiz](https://indieforgestudio.com/games/anatomy-skeletal-system/) |
+| 2 | [Anatomy Muscular System](https://indieforgestudio.com/games/anatomy-muscular-system/) |
+| 3 | [Anatomy Joints Ligaments](https://indieforgestudio.com/games/anatomy-joints-ligaments/) |
+| 4 | [Anatomy Brain](https://indieforgestudio.com/games/anatomy-brain/) |
+| 5 | [Anatomy Nervous System](https://indieforgestudio.com/games/anatomy-nervous-system/) |
+| 6 | [Anatomy Digestive System](https://indieforgestudio.com/games/anatomy-digestive-system/) |
+| 7 | [Anatomy Respiratory System](https://indieforgestudio.com/games/anatomy-respiratory-system/) |
+| 8 | [IFS MedSim 3D Anatomy Games](https://indieforgestudio.com/games/anatomy/) |
+| 9 | [Anatomy Cardiovascular System](https://indieforgestudio.com/games/anatomy-cardiovascular-system/) |
+| 10 | [Anatomy Lymphatic System](https://indieforgestudio.com/games/anatomy-lymphatic-system/) |
+| 11 | [Neon Turret Rush](https://indieforgestudio.com/games/neon-turret-rush/) |
+| 12 | [Drift Dash](https://indieforgestudio.com/games/drift-dash/) |
+| 13 | [Lane Gunner](https://indieforgestudio.com/games/lane-gunner/) |
+| 14 | [Wall Flip](https://indieforgestudio.com/games/wall-flip/) |
+| 15 | [Rocket Lander](https://indieforgestudio.com/games/rocket-lander/) |
+| 16 | [Balloon Guard](https://indieforgestudio.com/games/balloon-guard/) |
+| 17 | [Tap Jump Road](https://indieforgestudio.com/games/tap-jump-road/) |
+| 18 | [Tic-Tac-Toe](https://indieforgestudio.com/games/tic-tac-toe/) |
+| 19 | [Lane Runner Drop](https://indieforgestudio.com/games/lane-runner-drop/) |
+| 20 | [Color Gate Rush](https://indieforgestudio.com/games/color-gate-rush/) |
+| 21 | [Stack Tower 3D](https://indieforgestudio.com/games/stack-tower/) |
+| 22 | [Orbit Dodge](https://indieforgestudio.com/games/orbit-dodge/) |
+| 23 | [Sky Hopper](https://indieforgestudio.com/games/sky-hopper/) |
+| 24 | [Knife Spin](https://indieforgestudio.com/games/knife-spin/) |
+| 25 | [Brick Blaster](https://indieforgestudio.com/games/brick-blaster/) |
+| 26 | [Helix Drop](https://indieforgestudio.com/games/helix-drop/) |
+| 27 | [Snake Glide 3D](https://indieforgestudio.com/games/snake-glide/) |
+| 28 | [Fruit Slash](https://indieforgestudio.com/games/fruit-slash/) |
 
 ## Tutorials
 Free Three.js tutorials with live demos (77).
@@ -150,60 +160,69 @@ Free Three.js tutorials with live demos (77).
 | 77 | [Using Three.js to Develop Online 3D Browser Games](https://www.shanebrumback.com/tutorials/using-threejs-to-develop-online-3D=browser-games.html) |
 
 ## Articles
-Dev logs, game write-ups and Three.js/WebGL articles (50).
+Dev logs, game write-ups and Three.js/WebGL articles (59).
 
 | # | Title |
 |---|---|
-| 1 | [Neon Turret Rush: Free Three.js 3D Turret Shooter Game](https://www.shanebrumback.com/articles/neon-turret-rush-threejs-turret-shooter-game.html) |
-| 2 | [Drift Dash: Free Three.js 3D Drift Racing Game](https://www.shanebrumback.com/articles/drift-dash-threejs-drift-racing-game.html) |
-| 3 | [Three.js Cloth Simulation: A Waving, Tearable Flag With Verlet Physics](https://www.shanebrumback.com/articles/threejs-cloth-simulation-verlet-flag.html) |
-| 4 | [Lane Gunner: Free Three.js 3D Neon Lane Shooter Game](https://www.shanebrumback.com/articles/lane-gunner-threejs-neon-lane-shooter-game.html) |
-| 5 | [Wall Flip: Free Three.js 3D Neon Wall Switch Game](https://www.shanebrumback.com/articles/wall-flip-threejs-neon-wall-switch-game.html) |
-| 6 | [Three.js Rapier Physics: Landing a 3D Rocket with Real Rigid Bodies](https://www.shanebrumback.com/articles/threejs-rapier-physics.html) |
-| 7 | [Rocket Lander: Free Three.js 3D Rocket Landing Game](https://www.shanebrumback.com/articles/rocket-lander-threejs-3d-rocket-landing-game.html) |
-| 8 | [Balloon Guard: Free Three.js 3D Shield Physics Game](https://www.shanebrumback.com/articles/balloon-guard-threejs-shield-physics-game.html) |
-| 9 | [Tap Jump Road: Free Three.js 3D Road Crossing Game](https://www.shanebrumback.com/articles/tap-jump-road-threejs-3d-road-crossing-game.html) |
-| 10 | [Three.js Character Controller: Why Feet Slide and How to Fix It](https://www.shanebrumback.com/articles/threejs-character-controller-foot-sliding.html) |
-| 11 | [Three.js Gamepad API: Xbox Controller Characters in the Browser](https://www.shanebrumback.com/articles/threejs-gamepad-api-xbox-controller.html) |
-| 12 | [Three.js Tutorials Membership: What Free and Premium Members Get in 2026](https://www.shanebrumback.com/articles/threejs-tutorials-membership-what-you-get.html) |
-| 13 | [AI](https://www.shanebrumback.com/articles/ais-impact-on-the-tech-industry.html) |
-| 14 | [AWS and GitHub Integration for Web Games: Deploy With Actions](https://www.shanebrumback.com/articles/aws-github-integration.html) |
-| 15 | [Three.js Cookbook by Jos Dirksen: Advanced Techniques Guide](https://www.shanebrumback.com/articles/book-threejs-cookbook-advanced-techniques.html) |
-| 16 | [Blender to Three.js Tutorial: Model, Export glTF and Load It in a Game](https://www.shanebrumback.com/articles/creating-3d-games-with-blender-and-threejs.html) |
-| 17 | [Creating 3D Virtual Educational Worlds with Three.js](https://www.shanebrumback.com/articles/creating-3d-virtual-educational-worlds.html) |
-| 18 | [Emberwood - Multiplayer Three.js 3D Open World Game](https://www.shanebrumback.com/articles/emberwood-multiplayer-3d-demo.html) |
-| 19 | [Three.js Floating Objects on Water: Making Super Soldier Battle's Ocean Come Alive](https://www.shanebrumback.com/articles/threejs-floating-objects-on-water.html) |
-| 20 | [Endless Procedural Terrain in Three.js, Part 1: Infinite Chunk Streaming](https://www.shanebrumback.com/articles/threejs-procedural-terrain.html) |
-| 21 | [Three.js Smoke Effect: Soft Smoke Plumes and Ground Mist That Don](https://www.shanebrumback.com/articles/threejs-smoke-effect.html) |
-| 22 | [Three.js Terrain Heightmap from Noise: Endless Procedural Terrain, Part 2](https://www.shanebrumback.com/articles/threejs-terrain-heightmap.html) |
-| 23 | [Three.js Terrain LOD and Terrain Shader: Endless Procedural Terrain, Part 3](https://www.shanebrumback.com/articles/threejs-terrain-lod.html) |
-| 24 | [Three.js with TypeScript - Build Interactive 3D Applications](https://www.shanebrumback.com/articles/threejs-typescript-interactive-3d-applications.html) |
-| 25 | [What is Three.js? — Powerful JavaScript 3D Library](https://www.shanebrumback.com/articles/threejs.html) |
-| 26 | [Why WebGL & Three.js Are the Future of Online Game Development](https://www.shanebrumback.com/articles/webgl-threejs-online-game-advantages.html) |
-| 27 | [How to Design 3D Games with Web Technology, Book 01 by Jordi Josa](https://www.shanebrumback.com/articles/book-how-to-design-3d-games-with-web-technology.html) |
-| 28 | [Three.js FPS Controls: The Four Fixes That Made Super Soldier Battle Feel Right](https://www.shanebrumback.com/articles/threejs-fps-controls.html) |
-| 29 | [Three.js Sharpen Filter: Adding CAS Sharpening to Super Soldier Battle](https://www.shanebrumback.com/articles/threejs-sharpen-filter-cas.html) |
-| 30 | [Zombie Attack: Free Three.js Voxel Zombie FPS Game](https://www.shanebrumback.com/articles/zombie-attack-voxel-fps-browser-game.html) |
-| 31 | [Metasports Basketball: Three.js 3D Metaverse Sports Game](https://www.shanebrumback.com/articles/metasports-basketball-3d-metaverse-demo.html) |
-| 32 | [Space Wow: Free Three.js 3D Dogecoin Space Shooter](https://www.shanebrumback.com/articles/space-wow-dogecoin-space-game.html) |
-| 33 | [SpaceX Falcon 9 Launch Complex: Free Three.js 3D World](https://www.shanebrumback.com/articles/spacex-falcon-9-launch-complex-3d-world.html) |
-| 34 | [AI Tic-Tac-Toe: Free Three.js Multiplayer Game Online](https://www.shanebrumback.com/articles/ai-tic-tac-toe-online-multiplayer.html) |
-| 35 | [FPS Game Starter: Play and Build a Three.js Shooter](https://www.shanebrumback.com/articles/fps-game-starter-threejs.html) |
-| 36 | [Super Soldier Battle: Free Three.js Team Shooter Game](https://www.shanebrumback.com/articles/super-soldier-battle-browser-fps.html) |
-| 37 | [Game Development with Three.js Book (Kindle): What You Will Learn](https://www.shanebrumback.com/articles/book-game-development-with-threejs.html) |
-| 38 | [Dev Log: Walk-In Bunkers and Beaches Land in Super Soldier Battle](https://www.shanebrumback.com/articles/dev-log-2026-10-21-bunkers-and-beaches.html) |
-| 39 | [Dev Log: Burning Ruins and Gunship Wrecks Light Up Super Soldier Battle](https://www.shanebrumback.com/articles/dev-log-2026-10-22-burning-ruins-and-wrecks.html) |
-| 40 | [Dev Log: Health, Ammo and Shield Pickups Now Spread Across the Island in Super Soldier Battle](https://www.shanebrumback.com/articles/dev-log-2026-10-23-health-ammo-shield-pickups.html) |
-| 41 | [Stack Tower 3D: Free Three.js Block Stacking Game](https://www.shanebrumback.com/articles/stack-tower-3d-threejs-block-stacking-game.html) |
-| 42 | [Orbit Dodge: Free Three.js 3D Space Arcade Game](https://www.shanebrumback.com/articles/orbit-dodge-threejs-space-arcade-game.html) |
-| 43 | [Color Gate Rush: Free Three.js Neon 3D Arcade Game](https://www.shanebrumback.com/articles/color-gate-rush-threejs-neon-arcade-game.html) |
-| 44 | [Lane Runner Drop: Free Three.js 3D Runner Game](https://www.shanebrumback.com/articles/lane-runner-drop-threejs-3d-runner-game.html) |
-| 45 | [Sky Hopper: Free Three.js 3D Bouncing Jump Game](https://www.shanebrumback.com/articles/sky-hopper-threejs-bouncing-jump-game.html) |
-| 46 | [Knife Spin: Free Three.js 3D Knife Throwing Game](https://www.shanebrumback.com/articles/knife-spin-threejs-knife-throwing-game.html) |
-| 47 | [Brick Blaster: Free Three.js Neon Breakout Game](https://www.shanebrumback.com/articles/brick-blaster-threejs-neon-breakout-game.html) |
-| 48 | [Helix Drop: Free Three.js 3D Helix Tower Ball Game](https://www.shanebrumback.com/articles/helix-drop-threejs-helix-tower-ball-game.html) |
-| 49 | [Snake Glide 3D: Free Three.js 3D Snake Game](https://www.shanebrumback.com/articles/snake-glide-3d-threejs-snake-game.html) |
-| 50 | [Fruit Slash: Free Three.js 3D Fruit Slicing Game](https://www.shanebrumback.com/articles/fruit-slash-threejs-fruit-slicing-game.html) |
+| 1 | [Muscular System 3D Anatomy Quiz: Free Three.js Anatomy Game](https://www.shanebrumback.com/articles/muscular-system-3d-anatomy-quiz-threejs-game.html) |
+| 2 | [Joints & Ligaments 3D Anatomy Quiz: Free Three.js Anatomy Game](https://www.shanebrumback.com/articles/joints-ligaments-3d-anatomy-quiz-threejs-game.html) |
+| 3 | [Brain 3D Anatomy Quiz: Free Three.js Anatomy Game](https://www.shanebrumback.com/articles/brain-3d-anatomy-quiz-threejs-game.html) |
+| 4 | [Nervous System 3D Anatomy Quiz: Free Three.js Anatomy Game](https://www.shanebrumback.com/articles/nervous-system-3d-anatomy-quiz-threejs-game.html) |
+| 5 | [Digestive System 3D Anatomy Quiz: Free Three.js Anatomy Game](https://www.shanebrumback.com/articles/digestive-system-3d-anatomy-quiz-threejs-game.html) |
+| 6 | [Respiratory System 3D Anatomy Quiz: Free Three.js Anatomy Game](https://www.shanebrumback.com/articles/respiratory-system-3d-anatomy-quiz-threejs-game.html) |
+| 7 | [Cardiovascular System 3D Anatomy Quiz: Free Three.js Anatomy Game](https://www.shanebrumback.com/articles/cardiovascular-system-3d-anatomy-quiz-threejs-game.html) |
+| 8 | [Lymphatic System 3D Anatomy Quiz: Free Three.js Anatomy Game](https://www.shanebrumback.com/articles/lymphatic-system-3d-anatomy-quiz-threejs-game.html) |
+| 9 | [Skeletal System 3D Anatomy Quiz: Free Three.js Anatomy Game](https://www.shanebrumback.com/articles/skeletal-system-3d-anatomy-quiz-threejs-game.html) |
+| 10 | [Neon Turret Rush: Free Three.js 3D Turret Shooter Game](https://www.shanebrumback.com/articles/neon-turret-rush-threejs-turret-shooter-game.html) |
+| 11 | [Drift Dash: Free Three.js 3D Drift Racing Game](https://www.shanebrumback.com/articles/drift-dash-threejs-drift-racing-game.html) |
+| 12 | [Three.js Cloth Simulation: A Waving, Tearable Flag With Verlet Physics](https://www.shanebrumback.com/articles/threejs-cloth-simulation-verlet-flag.html) |
+| 13 | [Lane Gunner: Free Three.js 3D Neon Lane Shooter Game](https://www.shanebrumback.com/articles/lane-gunner-threejs-neon-lane-shooter-game.html) |
+| 14 | [Wall Flip: Free Three.js 3D Neon Wall Switch Game](https://www.shanebrumback.com/articles/wall-flip-threejs-neon-wall-switch-game.html) |
+| 15 | [Three.js Rapier Physics: Landing a 3D Rocket with Real Rigid Bodies](https://www.shanebrumback.com/articles/threejs-rapier-physics.html) |
+| 16 | [Rocket Lander: Free Three.js 3D Rocket Landing Game](https://www.shanebrumback.com/articles/rocket-lander-threejs-3d-rocket-landing-game.html) |
+| 17 | [Balloon Guard: Free Three.js 3D Shield Physics Game](https://www.shanebrumback.com/articles/balloon-guard-threejs-shield-physics-game.html) |
+| 18 | [Tap Jump Road: Free Three.js 3D Road Crossing Game](https://www.shanebrumback.com/articles/tap-jump-road-threejs-3d-road-crossing-game.html) |
+| 19 | [Three.js Character Controller: Why Feet Slide and How to Fix It](https://www.shanebrumback.com/articles/threejs-character-controller-foot-sliding.html) |
+| 20 | [Three.js Gamepad API: Xbox Controller Characters in the Browser](https://www.shanebrumback.com/articles/threejs-gamepad-api-xbox-controller.html) |
+| 21 | [Three.js Tutorials Membership: What Free and Premium Members Get in 2026](https://www.shanebrumback.com/articles/threejs-tutorials-membership-what-you-get.html) |
+| 22 | [AI](https://www.shanebrumback.com/articles/ais-impact-on-the-tech-industry.html) |
+| 23 | [AWS and GitHub Integration for Web Games: Deploy With Actions](https://www.shanebrumback.com/articles/aws-github-integration.html) |
+| 24 | [Three.js Cookbook by Jos Dirksen: Advanced Techniques Guide](https://www.shanebrumback.com/articles/book-threejs-cookbook-advanced-techniques.html) |
+| 25 | [Blender to Three.js Tutorial: Model, Export glTF and Load It in a Game](https://www.shanebrumback.com/articles/creating-3d-games-with-blender-and-threejs.html) |
+| 26 | [Creating 3D Virtual Educational Worlds with Three.js](https://www.shanebrumback.com/articles/creating-3d-virtual-educational-worlds.html) |
+| 27 | [Emberwood - Multiplayer Three.js 3D Open World Game](https://www.shanebrumback.com/articles/emberwood-multiplayer-3d-demo.html) |
+| 28 | [Three.js Floating Objects on Water: Making Super Soldier Battle's Ocean Come Alive](https://www.shanebrumback.com/articles/threejs-floating-objects-on-water.html) |
+| 29 | [Endless Procedural Terrain in Three.js, Part 1: Infinite Chunk Streaming](https://www.shanebrumback.com/articles/threejs-procedural-terrain.html) |
+| 30 | [Three.js Smoke Effect: Soft Smoke Plumes and Ground Mist That Don](https://www.shanebrumback.com/articles/threejs-smoke-effect.html) |
+| 31 | [Three.js Terrain Heightmap from Noise: Endless Procedural Terrain, Part 2](https://www.shanebrumback.com/articles/threejs-terrain-heightmap.html) |
+| 32 | [Three.js Terrain LOD and Terrain Shader: Endless Procedural Terrain, Part 3](https://www.shanebrumback.com/articles/threejs-terrain-lod.html) |
+| 33 | [Three.js with TypeScript - Build Interactive 3D Applications](https://www.shanebrumback.com/articles/threejs-typescript-interactive-3d-applications.html) |
+| 34 | [What is Three.js? — Powerful JavaScript 3D Library](https://www.shanebrumback.com/articles/threejs.html) |
+| 35 | [Why WebGL & Three.js Are the Future of Online Game Development](https://www.shanebrumback.com/articles/webgl-threejs-online-game-advantages.html) |
+| 36 | [How to Design 3D Games with Web Technology, Book 01 by Jordi Josa](https://www.shanebrumback.com/articles/book-how-to-design-3d-games-with-web-technology.html) |
+| 37 | [Three.js FPS Controls: The Four Fixes That Made Super Soldier Battle Feel Right](https://www.shanebrumback.com/articles/threejs-fps-controls.html) |
+| 38 | [Three.js Sharpen Filter: Adding CAS Sharpening to Super Soldier Battle](https://www.shanebrumback.com/articles/threejs-sharpen-filter-cas.html) |
+| 39 | [Zombie Attack: Free Three.js Voxel Zombie FPS Game](https://www.shanebrumback.com/articles/zombie-attack-voxel-fps-browser-game.html) |
+| 40 | [Metasports Basketball: Three.js 3D Metaverse Sports Game](https://www.shanebrumback.com/articles/metasports-basketball-3d-metaverse-demo.html) |
+| 41 | [Space Wow: Free Three.js 3D Dogecoin Space Shooter](https://www.shanebrumback.com/articles/space-wow-dogecoin-space-game.html) |
+| 42 | [SpaceX Falcon 9 Launch Complex: Free Three.js 3D World](https://www.shanebrumback.com/articles/spacex-falcon-9-launch-complex-3d-world.html) |
+| 43 | [AI Tic-Tac-Toe: Free Three.js Multiplayer Game Online](https://www.shanebrumback.com/articles/ai-tic-tac-toe-online-multiplayer.html) |
+| 44 | [FPS Game Starter: Play and Build a Three.js Shooter](https://www.shanebrumback.com/articles/fps-game-starter-threejs.html) |
+| 45 | [Super Soldier Battle: Free Three.js Team Shooter Game](https://www.shanebrumback.com/articles/super-soldier-battle-browser-fps.html) |
+| 46 | [Game Development with Three.js Book (Kindle): What You Will Learn](https://www.shanebrumback.com/articles/book-game-development-with-threejs.html) |
+| 47 | [Dev Log: Walk-In Bunkers and Beaches Land in Super Soldier Battle](https://www.shanebrumback.com/articles/dev-log-2026-10-21-bunkers-and-beaches.html) |
+| 48 | [Dev Log: Burning Ruins and Gunship Wrecks Light Up Super Soldier Battle](https://www.shanebrumback.com/articles/dev-log-2026-10-22-burning-ruins-and-wrecks.html) |
+| 49 | [Dev Log: Health, Ammo and Shield Pickups Now Spread Across the Island in Super Soldier Battle](https://www.shanebrumback.com/articles/dev-log-2026-10-23-health-ammo-shield-pickups.html) |
+| 50 | [Stack Tower 3D: Free Three.js Block Stacking Game](https://www.shanebrumback.com/articles/stack-tower-3d-threejs-block-stacking-game.html) |
+| 51 | [Orbit Dodge: Free Three.js 3D Space Arcade Game](https://www.shanebrumback.com/articles/orbit-dodge-threejs-space-arcade-game.html) |
+| 52 | [Color Gate Rush: Free Three.js Neon 3D Arcade Game](https://www.shanebrumback.com/articles/color-gate-rush-threejs-neon-arcade-game.html) |
+| 53 | [Lane Runner Drop: Free Three.js 3D Runner Game](https://www.shanebrumback.com/articles/lane-runner-drop-threejs-3d-runner-game.html) |
+| 54 | [Sky Hopper: Free Three.js 3D Bouncing Jump Game](https://www.shanebrumback.com/articles/sky-hopper-threejs-bouncing-jump-game.html) |
+| 55 | [Knife Spin: Free Three.js 3D Knife Throwing Game](https://www.shanebrumback.com/articles/knife-spin-threejs-knife-throwing-game.html) |
+| 56 | [Brick Blaster: Free Three.js Neon Breakout Game](https://www.shanebrumback.com/articles/brick-blaster-threejs-neon-breakout-game.html) |
+| 57 | [Helix Drop: Free Three.js 3D Helix Tower Ball Game](https://www.shanebrumback.com/articles/helix-drop-threejs-helix-tower-ball-game.html) |
+| 58 | [Snake Glide 3D: Free Three.js 3D Snake Game](https://www.shanebrumback.com/articles/snake-glide-3d-threejs-snake-game.html) |
+| 59 | [Fruit Slash: Free Three.js 3D Fruit Slicing Game](https://www.shanebrumback.com/articles/fruit-slash-threejs-fruit-slicing-game.html) |
 
 ## Links
 - Website: [www.shanebrumback.com](https://www.shanebrumback.com/)
