@@ -21,7 +21,7 @@ I build **Three.js games and 3D browser games** with **WebGL**, plus particle sy
 - 🕹️ **3D Web Experiences & Three.js / WebGL Browser Games**: free-to-play browser games, interactive Three.js apps, WebGL visualizations and multiplayer game systems, with no download, built for desktop and mobile browsers.
 - ☁️ **Full Stack Web Apps on AWS Serverless**: scalable web apps with Node.js and AWS serverless (Lambda, DynamoDB, S3, CloudFront, API Gateway), real-time WebSockets and cloud-native solutions.
 - 🤖 **AI Orchestration & Agent Management**: designing, deploying and coordinating AI agents and multi-agent workflows, integrating them with web apps and AWS/Node.js backends, and monitoring them in production.
-- 🧱 **Game Development & Architecture**: 3D interactive character controllers and game systems with Three.js, STEM Studio AI 3D Game Engine development, and architecture for browser games and interactive demos.
+- 🧱 **Game Development & Architecture**: 3D interactive character controllers and game systems with Three.js, and architecture for browser games and interactive demos.
 
 **Explore my site:**
 - 🎮 **[3D Games](https://www.shanebrumback.com/3d-games.html)**: play free 3D browser games built with Three.js, right in your browser.
