@@ -13,11 +13,23 @@
   <a href="https://www.youtube.com/channel/UC5kqNYlnPWrL46eTKjTEPHg">YouTube</a>
 </p>
 
-Summary of my Three.js 3D game work.
+**I build 3D worlds you can play in your browser.** Free games with no download, plus step-by-step Three.js tutorials with live demos and full code. I also do full-stack and 3D web work (multiplayer games, interactive sites and cloud apps on Node.js and AWS) and AI agent management and orchestration, and I'm available for freelance and contract projects.
 
 I build **Three.js games and 3D browser games** with **WebGL**, plus particle systems, shaders, and interactive 3D web experiences. I work in HTML, CSS, JavaScript, Node.js and the Three.js framework, and I architect AWS web services and API integrations. On [shanebrumback.com](https://www.shanebrumback.com/) I publish free Three.js tutorials with live demos and code.
 
+## What I Do
+- 🕹️ **3D Web Experiences & Three.js / WebGL Browser Games**: free-to-play browser games, interactive Three.js apps, WebGL visualizations and multiplayer game systems, with no download, built for desktop and mobile browsers.
+- ☁️ **Full Stack Web Apps on AWS Serverless**: scalable web apps with Node.js and AWS serverless (Lambda, DynamoDB, S3, CloudFront, API Gateway), real-time WebSockets and cloud-native solutions.
+- 🤖 **AI Orchestration & Agent Management**: designing, deploying and coordinating AI agents and multi-agent workflows, integrating them with web apps and AWS/Node.js backends, and monitoring them in production.
+- 🧱 **Game Development & Architecture**: 3D interactive character controllers and game systems with Three.js, STEM Studio AI 3D Game Engine development, and architecture for browser games and interactive demos.
+
+**Explore my site:**
+- 🎮 **[3D Games](https://www.shanebrumback.com/3d-games.html)**: play free 3D browser games built with Three.js, right in your browser.
+- 📝 **[Articles](https://www.shanebrumback.com/articles.html)**: articles on Three.js, WebGL, game development and building for the 3D web.
+- 📚 **[Tutorials](https://www.shanebrumback.com/tutorials.html)**: step-by-step Three.js tutorials with live demos and copy-paste code.
+
 ## Contents
+- [What I Do](#what-i-do)
 - [Featured](#featured)
 - [Three.js Games](#threejs-games)
 - [Portrait Arcade Games on Indie Forge Studio](#portrait-arcade-games-on-indie-forge-studio)
