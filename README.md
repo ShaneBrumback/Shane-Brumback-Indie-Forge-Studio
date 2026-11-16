@@ -15,7 +15,7 @@
 
 Summary of my Three.js 3D game work.
 
-**Three.js is my niche.** I build **Three.js games and 3D browser games** with **WebGL**, plus particle systems, shaders, and interactive 3D web experiences. I work in HTML, CSS, JavaScript, Node.js and the Three.js framework, and I architect AWS web services and API integrations. On [shanebrumback.com](https://www.shanebrumback.com/) I publish free Three.js tutorials with live demos and code.
+I build **Three.js games and 3D browser games** with **WebGL**, plus particle systems, shaders, and interactive 3D web experiences. I work in HTML, CSS, JavaScript, Node.js and the Three.js framework, and I architect AWS web services and API integrations. On [shanebrumback.com](https://www.shanebrumback.com/) I publish free Three.js tutorials with live demos and code.
 
 ## Contents
 - [Featured](#featured)
