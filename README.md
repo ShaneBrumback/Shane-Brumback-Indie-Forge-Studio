@@ -2,9 +2,40 @@
 <h1 align="center">Shane Brumback · Indie Forge Studio</h1>
 <p align="center"><b>Three.js 3D Games · WebGL · 3D Browser Games</b></p>
 
-<p align="center">
-  <a href="https://supersoldierbattle.com"><img src="https://www.supersoldierbattle.com/images/ssb-og-image.jpg" width="100%" alt="Super Soldier Battle, a free multiplayer Three.js 3D shooter you play in the browser" /></a>
-</p>
+<!-- GAME-TEASER-COLLAGE:START -->
+<table>
+  <tr>
+    <td align="center" width="33%"><a href="https://supersoldierbattle.com"><img src="https://www.supersoldierbattle.com/images/ssb-og-image.jpg?v=4" width="100%" alt="Super Soldier Battle, free 3D browser game" /></a><br /><a href="https://supersoldierbattle.com"><b>Super Soldier Battle</b></a></td>
+    <td align="center" width="33%"><a href="https://indieforgestudio.com/games/strike-flick/"><img src="https://indieforgestudio.com/images/og/strike-flick.jpg?v=20261118" width="100%" alt="Strike Flick, free 3D browser game" /></a><br /><a href="https://indieforgestudio.com/games/strike-flick/"><b>Strike Flick</b></a></td>
+    <td align="center" width="33%"><a href="https://indieforgestudio.com/games/sky-strike-lanes/"><img src="https://indieforgestudio.com/images/og/sky-strike-lanes.jpg?v=20261115" width="100%" alt="Sky Strike Lanes, free 3D browser game" /></a><br /><a href="https://indieforgestudio.com/games/sky-strike-lanes/"><b>Sky Strike Lanes</b></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><a href="https://www.shanebrumback.com/spacex-falcon-9-launch-complex.html"><img src="https://www.shanebrumback.com/images/spacex-3d-falcon-9-launch-pad.jpg" width="100%" alt="SpaceX Falcon 9 Launch Complex, free 3D browser game" /></a><br /><a href="https://www.shanebrumback.com/spacex-falcon-9-launch-complex.html"><b>SpaceX Falcon 9 Launch Complex</b></a></td>
+    <td align="center" width="33%"><a href="https://www.shanebrumback.com/threejs-zombie-attack.html"><img src="https://www.shanebrumback.com/images/shane-brumback-zombie-attack-game.jpg?v=20261113rt" width="100%" alt="Zombie Attack, free 3D browser game" /></a><br /><a href="https://www.shanebrumback.com/threejs-zombie-attack.html"><b>Zombie Attack</b></a></td>
+    <td align="center" width="33%"><a href="https://www.shanebrumback.com/planet-quest-solar-system-explorer.html"><img src="https://www.shanebrumback.com/images/planet-quest-solar-system-explorer.jpg?v=20261102" width="100%" alt="Planet Quest: Solar System Explorer, free 3D browser game" /></a><br /><a href="https://www.shanebrumback.com/planet-quest-solar-system-explorer.html"><b>Planet Quest: Solar System Explorer</b></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><a href="https://www.shanebrumback.com/ai-tic-tac-toe.html"><img src="https://www.shanebrumback.com/images/ai-tic-tac-toe-og.jpg" width="100%" alt="AI Tic-Tac-Toe, free 3D browser game" /></a><br /><a href="https://www.shanebrumback.com/ai-tic-tac-toe.html"><b>AI Tic-Tac-Toe</b></a></td>
+    <td align="center" width="33%"><a href="https://indieforgestudio.com/games/anatomy/"><img src="https://www.shanebrumback.com/images/skeletal-system-3d-anatomy-quiz-article-card-20261116.jpg?v=20261116c1" width="100%" alt="IFS MedSim 3D Anatomy Games, free 3D browser game" /></a><br /><a href="https://indieforgestudio.com/games/anatomy/"><b>IFS MedSim 3D Anatomy Games</b></a></td>
+    <td align="center" width="33%"><a href="https://indieforgestudio.com/games/neon-turret-rush/"><img src="https://indieforgestudio.com/images/og/neon-turret-rush.jpg?v=20261114cr" width="100%" alt="Neon Turret Rush, free 3D browser game" /></a><br /><a href="https://indieforgestudio.com/games/neon-turret-rush/"><b>Neon Turret Rush</b></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><a href="https://indieforgestudio.com/games/drift-dash/"><img src="https://indieforgestudio.com/images/og/drift-dash.jpg?v=20261114cr" width="100%" alt="Drift Dash, free 3D browser game" /></a><br /><a href="https://indieforgestudio.com/games/drift-dash/"><b>Drift Dash</b></a></td>
+    <td align="center" width="33%"><a href="https://indieforgestudio.com/games/lane-gunner/"><img src="https://indieforgestudio.com/images/og/lane-gunner.jpg?v=20261109" width="100%" alt="Lane Gunner, free 3D browser game" /></a><br /><a href="https://indieforgestudio.com/games/lane-gunner/"><b>Lane Gunner</b></a></td>
+    <td align="center" width="33%"><a href="https://indieforgestudio.com/games/wall-flip/"><img src="https://indieforgestudio.com/images/og/wall-flip.png?v=20261105" width="100%" alt="Wall Flip, free 3D browser game" /></a><br /><a href="https://indieforgestudio.com/games/wall-flip/"><b>Wall Flip</b></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><a href="https://indieforgestudio.com/games/rocket-lander/"><img src="https://indieforgestudio.com/images/og/rocket-lander.png?v=20261104" width="100%" alt="Rocket Lander, free 3D browser game" /></a><br /><a href="https://indieforgestudio.com/games/rocket-lander/"><b>Rocket Lander</b></a></td>
+    <td align="center" width="33%"><a href="https://indieforgestudio.com/games/balloon-guard/"><img src="https://indieforgestudio.com/images/og/balloon-guard.png?v=20261104" width="100%" alt="Balloon Guard, free 3D browser game" /></a><br /><a href="https://indieforgestudio.com/games/balloon-guard/"><b>Balloon Guard</b></a></td>
+    <td align="center" width="33%"><a href="https://indieforgestudio.com/games/tap-jump-road/"><img src="https://indieforgestudio.com/images/og/tap-jump-road.jpg?v=20261103" width="100%" alt="Tap Jump Road, free 3D browser game" /></a><br /><a href="https://indieforgestudio.com/games/tap-jump-road/"><b>Tap Jump Road</b></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><a href="https://indieforgestudio.com/games/lane-runner-drop/"><img src="https://indieforgestudio.com/images/og/lane-runner-drop.jpg?v=20261103" width="100%" alt="Lane Runner Drop, free 3D browser game" /></a><br /><a href="https://indieforgestudio.com/games/lane-runner-drop/"><b>Lane Runner Drop</b></a></td>
+    <td align="center" width="33%"><a href="https://indieforgestudio.com/games/color-gate-rush/"><img src="https://indieforgestudio.com/images/og/color-gate-rush.jpg?v=20261103" width="100%" alt="Color Gate Rush, free 3D browser game" /></a><br /><a href="https://indieforgestudio.com/games/color-gate-rush/"><b>Color Gate Rush</b></a></td>
+    <td align="center" width="33%"><a href="https://indieforgestudio.com/games/stack-tower/"><img src="https://indieforgestudio.com/images/og/stack-tower.jpg?v=20261103" width="100%" alt="Stack Tower 3D, free 3D browser game" /></a><br /><a href="https://indieforgestudio.com/games/stack-tower/"><b>Stack Tower 3D</b></a></td>
+  </tr>
+</table>
+<!-- GAME-TEASER-COLLAGE:END -->
 
 <p align="center">
   <a href="https://www.shanebrumback.com/">shanebrumback.com</a> ·
